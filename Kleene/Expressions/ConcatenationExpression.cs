@@ -9,6 +9,6 @@ namespace Kleene
         public ConcatenationExpression(IEnumerable<Expression> expressions)
             : base(expressions) { }
 
-        public override ResultTree Generate() => throw new NotImplementedException();
+        public override Result Generate() => throw new NotImplementedException();
     }
 }

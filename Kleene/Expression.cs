@@ -8,6 +8,6 @@ namespace Kleene
     {
         public abstract IEnumerable<Expression> Expressions { get; }
 
-        public abstract ResultTree Generate();
+        public abstract Result Generate();
     }
 }

@@ -15,6 +15,6 @@ namespace Kleene
             this.value = value;
         }
 
-        public override ResultTree Generate() => throw new NotImplementedException();
+        public override Result Generate() => throw new NotImplementedException();
     }
 }
