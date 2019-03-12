@@ -6,6 +6,7 @@ namespace Kleene
 {
     public class CharacterExpression : NullaryExpression
     {
+        // TODO: Make this work better with Unicode.
         private readonly Char value;
 
         public Char Value => this.value;
