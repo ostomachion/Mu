@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Kleene
+namespace Mu.Kleene
 {
     public class Result
     {

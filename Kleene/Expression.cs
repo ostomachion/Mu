@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Kleene
+namespace Mu.Kleene
 {
     public abstract class Expression
     {

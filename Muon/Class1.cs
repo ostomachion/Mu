@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Mu
+namespace Mu.Muon
 {
     public class Class1
     {

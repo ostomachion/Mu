@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Kleene
+namespace Mu.Kleene
 {
     public abstract class NullaryExpression : Expression
     {

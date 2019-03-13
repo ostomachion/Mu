@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace Tests
+namespace Mu.Kleene.Tests
 {
     public class Tests
     {
