@@ -7,4 +7,5 @@ install:
 
 script:
  - dotnet build
- - dotnet test KleeneTests/KleeneTests.csproj
+ - dotnet test Kleene.Tests/Kleene.Tests.csproj
+ - dotnet test Muon.Tests/Muon.Tests.csproj
